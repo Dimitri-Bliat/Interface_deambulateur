@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_deambulateur", "Interface_deambulateur.csproj", "{E5CE5727-B1F7-4A85-9D58-8F7980DBDE63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfOscilloscopeControl", "..\WpfOscilloscope\WpfOscilloscopeControl.csproj", "{88BAA407-3FEA-4F4B-BB41-5309CE48884E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "..\Utilities\Utilities.csproj", "{8E7D0DA4-9A13-4B18-A90E-0243BBCCE40A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedSerialPort", "..\..\..\..\SeaTech_Latour_Eloi\C#\ExtendedSerialPort .NET6\ExtendedSerialPort\ExtendedSerialPort\ExtendedSerialPort.csproj", "{F5E8EEDF-4544-4604-B5CA-6FD2C5515B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5CE5727-B1F7-4A85-9D58-8F7980DBDE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CE5727-B1F7-4A85-9D58-8F7980DBDE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CE5727-B1F7-4A85-9D58-8F7980DBDE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CE5727-B1F7-4A85-9D58-8F7980DBDE63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88BAA407-3FEA-4F4B-BB41-5309CE48884E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BAA407-3FEA-4F4B-BB41-5309CE48884E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BAA407-3FEA-4F4B-BB41-5309CE48884E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BAA407-3FEA-4F4B-BB41-5309CE48884E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7D0DA4-9A13-4B18-A90E-0243BBCCE40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7D0DA4-9A13-4B18-A90E-0243BBCCE40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7D0DA4-9A13-4B18-A90E-0243BBCCE40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7D0DA4-9A13-4B18-A90E-0243BBCCE40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E8EEDF-4544-4604-B5CA-6FD2C5515B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E8EEDF-4544-4604-B5CA-6FD2C5515B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E8EEDF-4544-4604-B5CA-6FD2C5515B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E8EEDF-4544-4604-B5CA-6FD2C5515B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

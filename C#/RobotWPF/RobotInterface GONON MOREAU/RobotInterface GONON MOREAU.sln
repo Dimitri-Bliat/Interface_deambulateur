@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotInterface GONON MOREAU", "RobotInterface GONON MOREAU.csproj", "{10C455C8-D67A-4213-95CA-4E86013D7ABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedSerialPort", "..\ExtendedSerialPort\ExtendedSerialPort.csproj", "{21AC599E-E3D5-4181-AA0F-7C2E00CCA016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C455C8-D67A-4213-95CA-4E86013D7ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C455C8-D67A-4213-95CA-4E86013D7ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C455C8-D67A-4213-95CA-4E86013D7ABE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{10C455C8-D67A-4213-95CA-4E86013D7ABE}.Debug|x64.Build.0 = Debug|Any CPU
+		{10C455C8-D67A-4213-95CA-4E86013D7ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C455C8-D67A-4213-95CA-4E86013D7ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C455C8-D67A-4213-95CA-4E86013D7ABE}.Release|x64.ActiveCfg = Release|Any CPU
+		{10C455C8-D67A-4213-95CA-4E86013D7ABE}.Release|x64.Build.0 = Release|Any CPU
+		{21AC599E-E3D5-4181-AA0F-7C2E00CCA016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AC599E-E3D5-4181-AA0F-7C2E00CCA016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AC599E-E3D5-4181-AA0F-7C2E00CCA016}.Debug|x64.ActiveCfg = Debug|x64
+		{21AC599E-E3D5-4181-AA0F-7C2E00CCA016}.Debug|x64.Build.0 = Debug|x64
+		{21AC599E-E3D5-4181-AA0F-7C2E00CCA016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AC599E-E3D5-4181-AA0F-7C2E00CCA016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21AC599E-E3D5-4181-AA0F-7C2E00CCA016}.Release|x64.ActiveCfg = Release|x64
+		{21AC599E-E3D5-4181-AA0F-7C2E00CCA016}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {936B32F9-35AE-4A0C-A6A1-D8FC913024CE}
+	EndGlobalSection
+EndGlobal
